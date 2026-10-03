@@ -1,0 +1,11 @@
+metric,value
+population,95830.0
+n_per_group,4449.0
+baseline_rate,0.1277261817802358
+design_treatment_rate,0.10856725451320041
+observed_control_rate,0.123623286131715
+observed_treatment_rate,0.10564171723982918
+absolute_difference,-0.01798156889188582
+relative_change,-0.14545454545454545
+z_statistic,-2.662122975206514
+p_value,0.007764950397000938
